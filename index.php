@@ -8,7 +8,7 @@ if (!(strlen($ckey)>=1 && strlen($ckey)<=5)){
    }
 else{
    //echo "$ckey is key";
-   if (!file_exists("./$ckey")){echo file_get_contents("main_table.html");}
+   if (!file_exists("./cases/$ckey")){echo file_get_contents("main_table.html");}
    else{
        $clist = file("out.csv", FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
        $key = array_search("$ckey", $clist); //echo "$key $ckey";
@@ -58,7 +58,7 @@ td a{
          <td class=\"text\"><a href=\"./${ckey}\">text</a></td>
          </tr></table>";
        echo "<pre>\n"; 
-       echo file_get_contents("./$ckey");
+       echo file_get_contents("./cases/$ckey");
        echo "</pre></body></html>";
    }
 }
