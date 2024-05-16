@@ -1,0 +1,138 @@
+==============================  CFJ 4050  ==============================
+
+ais523 has 2 4st stamps.
+
+========================================================================
+
+Caller: 4st
+
+Judge: Janet
+Judgement: FALSE
+
+========================================================================
+
+History:
+
+Called by 4st:                                    04 Oct 2023 20:18:21
+Assigned to Janet:                                06 Oct 2023 21:37:17
+Judged FALSE by Janet:                            13 Oct 2023 02:50:07
+
+========================================================================
+
+Caller's Arguments:
+
+Arguments PARADOX:
+Per the temperature paradox:
+https://en.wikipedia.org/wiki/Temperature_paradox
+
+A. The boulder's height was 1.
+B. The boulders height was increased by 1.
+C. 1 was increased by 1.
+
+ais523 had 1 4st stamp, and 1 was increased to 2. QED.
+
+
+------------------------------------------------------------------------
+
+Gratuitous Arguments by 4st:
+
+Gratuitous arguments PARADOX:
+Numbers are rule defined in R2509 "Agoran Numbers".
+R1586 "Definition and Continuity of Entities" also seems to imply that
+things defined by the rules are entities, which would therefore include
+numbers.
+
+
+------------------------------------------------------------------------
+
+Judge Janet's Arguments:
+
+The caller's arguments for PARADOXICAL conflate the definition of
+PARADOXICAL under Rule 991 ("appropriate if the statement is logically
+undecidable as a result of a paradox or or [sic] other irresolvable
+logical situation") with the broader natural language usage of the word
+"paradox" (which does not require any "logical undecidab[ility]").]
+
+The "temperature paradox" is, per the Wikipedia page the caller sites,
+"a classic puzzle in formal semantics and philosophical logic". Agora is
+a game played in natural language, not formal logic. Words have
+meanings, and the name of a value cannot simply be replaced with the
+denoted value in all contexts.
+
+In this specific instance, there is a Rule that governs the language
+being used (Rule 2509). However, even in the absence of this Rule, the
+caller's suggested result would not be reached. Under Rule 217, "the
+text of the rules takes precedence". This does not require or even
+suggest a mechanistic reading or a reading attempting to apply rules of
+formal logic. It simply requires a faithful reading.
+
+The facts regarding ais523's stamp holdings are not otherwise in dispute.
+
+Judged FALSE.
+
+
+Judge Janet's Evidence:
+
+------------------------------------------------------------------------
+Rule 2509/2 (Power=2)
+Agoran Numbers
+
+      A "number" is considered to refer to a real number, unless
+      otherwise explicitly specified.  A "number of (items)", where
+      (items) is a set of discrete entities, is considered to refer to a
+      non-negative integer, unless otherwise explicitly specified.
+      
+      If a switch is defined as being associated with a specified set of
+      numbers (a numerical switch), then the possible values for that
+      switch are the numbers in that set. In particular, a natural or
+      integer switch is a switch with possible values the non-negative
+      integers or all integers, respectively. If a limit is further
+      defined, the possible values are the numbers of the set within the
+      specified limits.
+      
+      If 0 is in the specified values for a numerical switch and no
+      default value is otherwise specified, 0 is the default value for
+      that switch.
+      
+      If the rules describe mathematical operations to be used in
+      flipping an instance of a numerical switch, the operations are
+      interpreted as having common-sense mathematical application to
+      determine that instance's resulting value. For example,
+      "increasing a switch instance by M" is equivalent to "flipping a
+      switch instance from its current value N to the value N+M". If the
+      specified mathematical operation would result in a value outside
+      that switch's defined set, the flipping CANNOT be performed, rules
+      to the contrary notwithstanding.
+
+------------------------------------------------------------------------
+Rule 217/12 (Power=3)
+Interpreting the Rules
+
+      When interpreting and applying the rules, the text of the rules
+      takes precedence. Where the text is silent, inconsistent, or
+      unclear, it is to be augmented by game custom, common sense, past
+      judgements, and consideration of the best interests of the game.
+      
+      Definitions and prescriptions in the rules are only to be applied
+      using direct, forward reasoning; in particular, an absurdity that
+      can be concluded from the assumption that a statement about
+      rule-defined concepts is false does not constitute proof that it
+      is true. Definitions in lower-powered Rules do not overrule
+      common-sense interpretations or common definitions of terms in
+      higher-powered rules, but may constructively make reasonable
+      clarifications to those definitions. For this purpose, a
+      clarification is reasonable if and only if it adds detail without
+      changing the underlying general meaning of the term and without
+      causing the higher powered rule to be read in a way inconsistent
+      with its text.
+      
+      Rules to the contrary notwithstanding, any rule change that would
+      (1) prevent a person from initiating a formal process to resolve
+      matters of controversy, in the reasonable expectation that the
+      controversy will thereby be resolved; or (2) prevent a person from
+      causing formal reconsideration of any judicial determination that
+      e should be punished, is wholly void and without effect.
+
+------------------------------------------------------------------------
+
+========================================================================
